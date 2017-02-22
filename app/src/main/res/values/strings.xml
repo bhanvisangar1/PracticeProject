@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PracticeProject</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+    <string name="please_ente_the_city_name">Please ENte the City Name</string>
+    <string name="current_location_button">Current Location Button</string>
+    <string name="search">Search</string>
+    <string name="loading_please">Loading Please Wait</string>
+    <string name="max_guest">"Max Guest "</string>
+    <string name="please_enter_the_guest_number">Please enter the guest number</string>
+    <string name="current_location">Current Location</string>
+</resources>
